@@ -1,2 +1,2 @@
 # Lorem
-Lorem Ipsum
+This is about Lorem Ipsum
